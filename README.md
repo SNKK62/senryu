@@ -1,18 +1,4 @@
 # senryu
 
-## バックエンド実行
-### Dockerビルド
-```
-make build
-```
-
-### コンテナ起動
-```
-make
-```
-
-### DBリセット
-```
-make db-reset
-```
-
+##川柳 x ワードウルフのゲーム
+DeNA Autumn Hackathon 2023で作りました
